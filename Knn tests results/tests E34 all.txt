@@ -1,0 +1,1913 @@
+------------------------------------------------------------EUclidian distance----------------------------------------------
+****************************************(E34-train 60.000004% -k = 1)****************************************
+****************************************(KNN)****************************************
+####################################[Precsion,recall,f1-score]####################################
+------------------------------------Class N°[1]-------------------------------------
+1
+Precision for class 1: 1.0
+Recall for class 1: 1.0
+f1-score for class 1: 1.0
+------------------------------------Class N°[2]-------------------------------------
+4
+Precision for class 2: 0.4
+Recall for class 2: 0.4
+f1-score for class 2: 0.4000000000000001
+------------------------------------Class N°[3]-------------------------------------
+4
+Precision for class 3: 0.8
+Recall for class 3: 0.8
+f1-score for class 3: 0.8000000000000002
+------------------------------------Class N°[4]-------------------------------------
+4
+Precision for class 4: 1.0
+Recall for class 4: 1.0
+f1-score for class 4: 1.0
+------------------------------------Class N°[5]-------------------------------------
+4
+Precision for class 5: 0.5
+Recall for class 5: 0.5
+f1-score for class 5: 0.5
+------------------------------------Class N°[6]-------------------------------------
+3
+Precision for class 6: 1.0
+Recall for class 6: 1.0
+f1-score for class 6: 1.0
+------------------------------------Class N°[7]-------------------------------------
+2
+Precision for class 7: 0.6666666666666666
+Recall for class 7: 0.6666666666666666
+f1-score for class 7: 0.6666666666666666
+------------------------------------Class N°[8]-------------------------------------
+1
+Precision for class 8: 0.5
+Recall for class 8: 0.5
+f1-score for class 8: 0.5
+------------------------------------Class N°[9]-------------------------------------
+0
+Precision for class 9: NaN
+Recall for class 9: NaN
+f1-score for class 9: NaN
+#################################{MACRO-[Precsion,recall,f1-score]}#################################
+Macro-Averaged Precision: 0.7333333333333334
+Macro-Averaged Recall: 0.7333333333333334
+Macro-Averaged F1 Score: 0.7333333333333334
+########################################{Confusion Matrix}##########################################
+Confusion Matrix:
+[1, 2, 0, 0, 0, 0, 1, 0, 0]
+[0, 4, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 4, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 4, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 4, 0, 0, 0, 0]
+[0, 1, 0, 0, 0, 3, 0, 0, 0]
+[0, 2, 0, 0, 0, 0, 2, 0, 0]
+[0, 0, 0, 0, 3, 0, 0, 1, 0]
+[0, 1, 1, 0, 1, 0, 0, 1, 0]
+Execution time: 77 milliseconds
+****************************************(end)****************************************
+
+****************************************(E34-train 60.000004% -k = 2)****************************************
+****************************************(KNN)****************************************
+####################################[Precsion,recall,f1-score]####################################
+------------------------------------Class N°[1]-------------------------------------
+1
+Precision for class 1: 0.3333333333333333
+Recall for class 1: 0.3333333333333333
+f1-score for class 1: 0.3333333333333333
+------------------------------------Class N°[2]-------------------------------------
+4
+Precision for class 2: 0.4
+Recall for class 2: 0.4
+f1-score for class 2: 0.4000000000000001
+------------------------------------Class N°[3]-------------------------------------
+4
+Precision for class 3: 0.8
+Recall for class 3: 0.8
+f1-score for class 3: 0.8000000000000002
+------------------------------------Class N°[4]-------------------------------------
+4
+Precision for class 4: 1.0
+Recall for class 4: 1.0
+f1-score for class 4: 1.0
+------------------------------------Class N°[5]-------------------------------------
+4
+Precision for class 5: 0.5
+Recall for class 5: 0.5
+f1-score for class 5: 0.5
+------------------------------------Class N°[6]-------------------------------------
+3
+Precision for class 6: 0.75
+Recall for class 6: 0.75
+f1-score for class 6: 0.75
+------------------------------------Class N°[7]-------------------------------------
+2
+Precision for class 7: 1.0
+Recall for class 7: 1.0
+f1-score for class 7: 1.0
+------------------------------------Class N°[8]-------------------------------------
+0
+Precision for class 8: NaN
+Recall for class 8: NaN
+f1-score for class 8: NaN
+------------------------------------Class N°[9]-------------------------------------
+0
+Precision for class 9: NaN
+Recall for class 9: NaN
+f1-score for class 9: NaN
+#################################{MACRO-[Precsion,recall,f1-score]}#################################
+Macro-Averaged Precision: 0.5979166666666667
+Macro-Averaged Recall: 0.5979166666666667
+Macro-Averaged F1 Score: 0.5979166666666667
+########################################{Confusion Matrix}##########################################
+Confusion Matrix:
+[1, 3, 0, 0, 0, 0, 0, 0, 0]
+[0, 4, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 4, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 4, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 4, 0, 0, 0, 0]
+[0, 1, 0, 0, 0, 3, 0, 0, 0]
+[1, 1, 0, 0, 0, 0, 2, 0, 0]
+[1, 0, 0, 0, 3, 0, 0, 0, 0]
+[0, 1, 1, 0, 1, 1, 0, 0, 0]
+Execution time: 8 milliseconds
+****************************************(end)****************************************
+
+****************************************(E34-train 60.000004% -k = 3)****************************************
+****************************************(KNN)****************************************
+####################################[Precsion,recall,f1-score]####################################
+------------------------------------Class N°[1]-------------------------------------
+0
+Precision for class 1: 0.0
+Recall for class 1: 0.0
+f1-score for class 1: NaN
+------------------------------------Class N°[2]-------------------------------------
+4
+Precision for class 2: 0.4
+Recall for class 2: 0.4
+f1-score for class 2: 0.4000000000000001
+------------------------------------Class N°[3]-------------------------------------
+4
+Precision for class 3: 0.8
+Recall for class 3: 0.8
+f1-score for class 3: 0.8000000000000002
+------------------------------------Class N°[4]-------------------------------------
+4
+Precision for class 4: 1.0
+Recall for class 4: 1.0
+f1-score for class 4: 1.0
+------------------------------------Class N°[5]-------------------------------------
+3
+Precision for class 5: 0.6
+Recall for class 5: 0.6
+f1-score for class 5: 0.6
+------------------------------------Class N°[6]-------------------------------------
+3
+Precision for class 6: 0.75
+Recall for class 6: 0.75
+f1-score for class 6: 0.75
+------------------------------------Class N°[7]-------------------------------------
+2
+Precision for class 7: 1.0
+Recall for class 7: 1.0
+f1-score for class 7: 1.0
+------------------------------------Class N°[8]-------------------------------------
+0
+Precision for class 8: 0.0
+Recall for class 8: 0.0
+f1-score for class 8: NaN
+------------------------------------Class N°[9]-------------------------------------
+0
+Precision for class 9: NaN
+Recall for class 9: NaN
+f1-score for class 9: NaN
+#################################{MACRO-[Precsion,recall,f1-score]}#################################
+Macro-Averaged Precision: 0.6500000000000001
+Macro-Averaged Recall: 0.6500000000000001
+Macro-Averaged F1 Score: 0.6500000000000001
+########################################{Confusion Matrix}##########################################
+Confusion Matrix:
+[0, 4, 0, 0, 0, 0, 0, 0, 0]
+[0, 4, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 4, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 4, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 3, 0, 0, 1, 0]
+[0, 1, 0, 0, 0, 3, 0, 0, 0]
+[1, 1, 0, 0, 0, 0, 2, 0, 0]
+[3, 0, 0, 0, 1, 0, 0, 0, 0]
+[1, 0, 1, 0, 1, 1, 0, 0, 0]
+Execution time: 6 milliseconds
+****************************************(end)****************************************
+
+****************************************(E34-train 60.000004% -k = 4)****************************************
+****************************************(KNN)****************************************
+####################################[Precsion,recall,f1-score]####################################
+------------------------------------Class N°[1]-------------------------------------
+0
+Precision for class 1: 0.0
+Recall for class 1: 0.0
+f1-score for class 1: NaN
+------------------------------------Class N°[2]-------------------------------------
+4
+Precision for class 2: 0.4444444444444444
+Recall for class 2: 0.4444444444444444
+f1-score for class 2: 0.4444444444444444
+------------------------------------Class N°[3]-------------------------------------
+4
+Precision for class 3: 0.8
+Recall for class 3: 0.8
+f1-score for class 3: 0.8000000000000002
+------------------------------------Class N°[4]-------------------------------------
+4
+Precision for class 4: 1.0
+Recall for class 4: 1.0
+f1-score for class 4: 1.0
+------------------------------------Class N°[5]-------------------------------------
+4
+Precision for class 5: 0.8
+Recall for class 5: 0.8
+f1-score for class 5: 0.8000000000000002
+------------------------------------Class N°[6]-------------------------------------
+3
+Precision for class 6: 1.0
+Recall for class 6: 1.0
+f1-score for class 6: 1.0
+------------------------------------Class N°[7]-------------------------------------
+2
+Precision for class 7: 1.0
+Recall for class 7: 1.0
+f1-score for class 7: 1.0
+------------------------------------Class N°[8]-------------------------------------
+1
+Precision for class 8: 1.0
+Recall for class 8: 1.0
+f1-score for class 8: 1.0
+------------------------------------Class N°[9]-------------------------------------
+0
+Precision for class 9: 0.0
+Recall for class 9: 0.0
+f1-score for class 9: NaN
+#################################{MACRO-[Precsion,recall,f1-score]}#################################
+Macro-Averaged Precision: 0.7555555555555555
+Macro-Averaged Recall: 0.7555555555555555
+Macro-Averaged F1 Score: 0.7555555555555555
+########################################{Confusion Matrix}##########################################
+Confusion Matrix:
+[0, 3, 0, 0, 0, 0, 0, 0, 1]
+[0, 4, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 4, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 4, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 4, 0, 0, 0, 0]
+[0, 1, 0, 0, 0, 3, 0, 0, 0]
+[1, 1, 0, 0, 0, 0, 2, 0, 0]
+[3, 0, 0, 0, 0, 0, 0, 1, 0]
+[2, 0, 1, 0, 1, 0, 0, 0, 0]
+Execution time: 6 milliseconds
+****************************************(end)****************************************
+
+****************************************(E34-train 70.00001% -k = 1)****************************************
+****************************************(KNN)****************************************
+####################################[Precsion,recall,f1-score]####################################
+------------------------------------Class N°[1]-------------------------------------
+1
+Precision for class 1: 1.0
+Recall for class 1: 1.0
+f1-score for class 1: 1.0
+------------------------------------Class N°[2]-------------------------------------
+2
+Precision for class 2: 0.4
+Recall for class 2: 0.4
+f1-score for class 2: 0.4000000000000001
+------------------------------------Class N°[3]-------------------------------------
+3
+Precision for class 3: 0.6
+Recall for class 3: 0.6
+f1-score for class 3: 0.6
+------------------------------------Class N°[4]-------------------------------------
+3
+Precision for class 4: 1.0
+Recall for class 4: 1.0
+f1-score for class 4: 1.0
+------------------------------------Class N°[5]-------------------------------------
+3
+Precision for class 5: 0.75
+Recall for class 5: 0.75
+f1-score for class 5: 0.75
+------------------------------------Class N°[6]-------------------------------------
+2
+Precision for class 6: 1.0
+Recall for class 6: 1.0
+f1-score for class 6: 1.0
+------------------------------------Class N°[7]-------------------------------------
+2
+Precision for class 7: 0.5
+Recall for class 7: 0.5
+f1-score for class 7: 0.5
+------------------------------------Class N°[8]-------------------------------------
+2
+Precision for class 8: 0.6666666666666666
+Recall for class 8: 0.6666666666666666
+f1-score for class 8: 0.6666666666666666
+------------------------------------Class N°[9]-------------------------------------
+0
+Precision for class 9: NaN
+Recall for class 9: NaN
+f1-score for class 9: NaN
+#################################{MACRO-[Precsion,recall,f1-score]}#################################
+Macro-Averaged Precision: 0.7395833333333334
+Macro-Averaged Recall: 0.7395833333333334
+Macro-Averaged F1 Score: 0.7395833333333334
+########################################{Confusion Matrix}##########################################
+Confusion Matrix:
+[1, 1, 0, 0, 0, 0, 1, 0, 0]
+[0, 2, 0, 0, 0, 0, 1, 0, 0]
+[0, 0, 3, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 3, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 3, 0, 0, 0, 0]
+[0, 1, 0, 0, 0, 2, 0, 0, 0]
+[0, 0, 1, 0, 0, 0, 2, 0, 0]
+[0, 0, 0, 0, 1, 0, 0, 2, 0]
+[0, 1, 1, 0, 0, 0, 0, 1, 0]
+Execution time: 6 milliseconds
+****************************************(end)****************************************
+
+****************************************(E34-train 70.00001% -k = 2)****************************************
+****************************************(KNN)****************************************
+####################################[Precsion,recall,f1-score]####################################
+------------------------------------Class N°[1]-------------------------------------
+2
+Precision for class 1: 0.6666666666666666
+Recall for class 1: 0.6666666666666666
+f1-score for class 1: 0.6666666666666666
+------------------------------------Class N°[2]-------------------------------------
+3
+Precision for class 2: 0.42857142857142855
+Recall for class 2: 0.42857142857142855
+f1-score for class 2: 0.42857142857142855
+------------------------------------Class N°[3]-------------------------------------
+3
+Precision for class 3: 0.75
+Recall for class 3: 0.75
+f1-score for class 3: 0.75
+------------------------------------Class N°[4]-------------------------------------
+3
+Precision for class 4: 1.0
+Recall for class 4: 1.0
+f1-score for class 4: 1.0
+------------------------------------Class N°[5]-------------------------------------
+3
+Precision for class 5: 0.6
+Recall for class 5: 0.6
+f1-score for class 5: 0.6
+------------------------------------Class N°[6]-------------------------------------
+2
+Precision for class 6: 1.0
+Recall for class 6: 1.0
+f1-score for class 6: 1.0
+------------------------------------Class N°[7]-------------------------------------
+2
+Precision for class 7: 1.0
+Recall for class 7: 1.0
+f1-score for class 7: 1.0
+------------------------------------Class N°[8]-------------------------------------
+1
+Precision for class 8: 1.0
+Recall for class 8: 1.0
+f1-score for class 8: 1.0
+------------------------------------Class N°[9]-------------------------------------
+0
+Precision for class 9: NaN
+Recall for class 9: NaN
+f1-score for class 9: NaN
+#################################{MACRO-[Precsion,recall,f1-score]}#################################
+Macro-Averaged Precision: 0.8056547619047618
+Macro-Averaged Recall: 0.8056547619047618
+Macro-Averaged F1 Score: 0.8056547619047618
+########################################{Confusion Matrix}##########################################
+Confusion Matrix:
+[2, 1, 0, 0, 0, 0, 0, 0, 0]
+[0, 3, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 3, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 3, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 3, 0, 0, 0, 0]
+[0, 1, 0, 0, 0, 2, 0, 0, 0]
+[0, 1, 0, 0, 0, 0, 2, 0, 0]
+[1, 0, 0, 0, 1, 0, 0, 1, 0]
+[0, 1, 1, 0, 1, 0, 0, 0, 0]
+Execution time: 10 milliseconds
+****************************************(end)****************************************
+
+****************************************(E34-train 70.00001% -k = 3)****************************************
+****************************************(KNN)****************************************
+####################################[Precsion,recall,f1-score]####################################
+------------------------------------Class N°[1]-------------------------------------
+0
+Precision for class 1: 0.0
+Recall for class 1: 0.0
+f1-score for class 1: NaN
+------------------------------------Class N°[2]-------------------------------------
+3
+Precision for class 2: 0.375
+Recall for class 2: 0.375
+f1-score for class 2: 0.375
+------------------------------------Class N°[3]-------------------------------------
+3
+Precision for class 3: 0.75
+Recall for class 3: 0.75
+f1-score for class 3: 0.75
+------------------------------------Class N°[4]-------------------------------------
+3
+Precision for class 4: 1.0
+Recall for class 4: 1.0
+f1-score for class 4: 1.0
+------------------------------------Class N°[5]-------------------------------------
+3
+Precision for class 5: 0.6
+Recall for class 5: 0.6
+f1-score for class 5: 0.6
+------------------------------------Class N°[6]-------------------------------------
+2
+Precision for class 6: 1.0
+Recall for class 6: 1.0
+f1-score for class 6: 1.0
+------------------------------------Class N°[7]-------------------------------------
+2
+Precision for class 7: 1.0
+Recall for class 7: 1.0
+f1-score for class 7: 1.0
+------------------------------------Class N°[8]-------------------------------------
+1
+Precision for class 8: 1.0
+Recall for class 8: 1.0
+f1-score for class 8: 1.0
+------------------------------------Class N°[9]-------------------------------------
+0
+Precision for class 9: NaN
+Recall for class 9: NaN
+f1-score for class 9: NaN
+#################################{MACRO-[Precsion,recall,f1-score]}#################################
+Macro-Averaged Precision: 0.715625
+Macro-Averaged Recall: 0.715625
+Macro-Averaged F1 Score: 0.715625
+########################################{Confusion Matrix}##########################################
+Confusion Matrix:
+[0, 3, 0, 0, 0, 0, 0, 0, 0]
+[0, 3, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 3, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 3, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 3, 0, 0, 0, 0]
+[0, 1, 0, 0, 0, 2, 0, 0, 0]
+[1, 0, 0, 0, 0, 0, 2, 0, 0]
+[1, 0, 0, 0, 1, 0, 0, 1, 0]
+[0, 1, 1, 0, 1, 0, 0, 0, 0]
+Execution time: 5 milliseconds
+****************************************(end)****************************************
+
+****************************************(E34-train 70.00001% -k = 4)****************************************
+****************************************(KNN)****************************************
+####################################[Precsion,recall,f1-score]####################################
+------------------------------------Class N°[1]-------------------------------------
+0
+Precision for class 1: 0.0
+Recall for class 1: 0.0
+f1-score for class 1: NaN
+------------------------------------Class N°[2]-------------------------------------
+3
+Precision for class 2: 0.42857142857142855
+Recall for class 2: 0.42857142857142855
+f1-score for class 2: 0.42857142857142855
+------------------------------------Class N°[3]-------------------------------------
+3
+Precision for class 3: 0.75
+Recall for class 3: 0.75
+f1-score for class 3: 0.75
+------------------------------------Class N°[4]-------------------------------------
+3
+Precision for class 4: 1.0
+Recall for class 4: 1.0
+f1-score for class 4: 1.0
+------------------------------------Class N°[5]-------------------------------------
+3
+Precision for class 5: 1.0
+Recall for class 5: 1.0
+f1-score for class 5: 1.0
+------------------------------------Class N°[6]-------------------------------------
+2
+Precision for class 6: 1.0
+Recall for class 6: 1.0
+f1-score for class 6: 1.0
+------------------------------------Class N°[7]-------------------------------------
+2
+Precision for class 7: 1.0
+Recall for class 7: 1.0
+f1-score for class 7: 1.0
+------------------------------------Class N°[8]-------------------------------------
+2
+Precision for class 8: 0.6666666666666666
+Recall for class 8: 0.6666666666666666
+f1-score for class 8: 0.6666666666666666
+------------------------------------Class N°[9]-------------------------------------
+0
+Precision for class 9: NaN
+Recall for class 9: NaN
+f1-score for class 9: NaN
+#################################{MACRO-[Precsion,recall,f1-score]}#################################
+Macro-Averaged Precision: 0.730654761904762
+Macro-Averaged Recall: 0.730654761904762
+Macro-Averaged F1 Score: 0.730654761904762
+########################################{Confusion Matrix}##########################################
+Confusion Matrix:
+[0, 3, 0, 0, 0, 0, 0, 0, 0]
+[0, 3, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 3, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 3, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 3, 0, 0, 0, 0]
+[0, 1, 0, 0, 0, 2, 0, 0, 0]
+[1, 0, 0, 0, 0, 0, 2, 0, 0]
+[1, 0, 0, 0, 0, 0, 0, 2, 0]
+[1, 0, 1, 0, 0, 0, 0, 1, 0]
+Execution time: 6 milliseconds
+****************************************(end)****************************************
+
+****************************************(E34-train 80.00001% -k = 1)****************************************
+****************************************(KNN)****************************************
+####################################[Precsion,recall,f1-score]####################################
+------------------------------------Class N°[1]-------------------------------------
+0
+Precision for class 1: 0.0
+Recall for class 1: 0.0
+f1-score for class 1: NaN
+------------------------------------Class N°[2]-------------------------------------
+2
+Precision for class 2: 0.5
+Recall for class 2: 0.5
+f1-score for class 2: 0.5
+------------------------------------Class N°[3]-------------------------------------
+2
+Precision for class 3: 1.0
+Recall for class 3: 1.0
+f1-score for class 3: 1.0
+------------------------------------Class N°[4]-------------------------------------
+2
+Precision for class 4: 1.0
+Recall for class 4: 1.0
+f1-score for class 4: 1.0
+------------------------------------Class N°[5]-------------------------------------
+2
+Precision for class 5: 0.6666666666666666
+Recall for class 5: 0.6666666666666666
+f1-score for class 5: 0.6666666666666666
+------------------------------------Class N°[6]-------------------------------------
+2
+Precision for class 6: 1.0
+Recall for class 6: 1.0
+f1-score for class 6: 1.0
+------------------------------------Class N°[7]-------------------------------------
+1
+Precision for class 7: 0.5
+Recall for class 7: 0.5
+f1-score for class 7: 0.5
+------------------------------------Class N°[8]-------------------------------------
+1
+Precision for class 8: 0.5
+Recall for class 8: 0.5
+f1-score for class 8: 0.5
+------------------------------------Class N°[9]-------------------------------------
+0
+Precision for class 9: NaN
+Recall for class 9: NaN
+f1-score for class 9: NaN
+#################################{MACRO-[Precsion,recall,f1-score]}#################################
+Macro-Averaged Precision: 0.6458333333333333
+Macro-Averaged Recall: 0.6458333333333333
+Macro-Averaged F1 Score: 0.6458333333333333
+########################################{Confusion Matrix}##########################################
+Confusion Matrix:
+[0, 1, 0, 0, 0, 0, 1, 0, 0]
+[0, 2, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 2, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 2, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 2, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 2, 0, 0, 0]
+[1, 0, 0, 0, 0, 0, 1, 0, 0]
+[0, 0, 0, 0, 1, 0, 0, 1, 0]
+[0, 1, 0, 0, 0, 0, 0, 1, 0]
+Execution time: 4 milliseconds
+****************************************(end)****************************************
+
+****************************************(E34-train 80.00001% -k = 2)****************************************
+****************************************(KNN)****************************************
+####################################[Precsion,recall,f1-score]####################################
+------------------------------------Class N°[1]-------------------------------------
+1
+Precision for class 1: 0.3333333333333333
+Recall for class 1: 0.3333333333333333
+f1-score for class 1: 0.3333333333333333
+------------------------------------Class N°[2]-------------------------------------
+2
+Precision for class 2: 0.6666666666666666
+Recall for class 2: 0.6666666666666666
+f1-score for class 2: 0.6666666666666666
+------------------------------------Class N°[3]-------------------------------------
+2
+Precision for class 3: 1.0
+Recall for class 3: 1.0
+f1-score for class 3: 1.0
+------------------------------------Class N°[4]-------------------------------------
+2
+Precision for class 4: 1.0
+Recall for class 4: 1.0
+f1-score for class 4: 1.0
+------------------------------------Class N°[5]-------------------------------------
+2
+Precision for class 5: 0.5
+Recall for class 5: 0.5
+f1-score for class 5: 0.5
+------------------------------------Class N°[6]-------------------------------------
+2
+Precision for class 6: 0.6666666666666666
+Recall for class 6: 0.6666666666666666
+f1-score for class 6: 0.6666666666666666
+------------------------------------Class N°[7]-------------------------------------
+1
+Precision for class 7: 1.0
+Recall for class 7: 1.0
+f1-score for class 7: 1.0
+------------------------------------Class N°[8]-------------------------------------
+0
+Precision for class 8: NaN
+Recall for class 8: NaN
+f1-score for class 8: NaN
+------------------------------------Class N°[9]-------------------------------------
+0
+Precision for class 9: NaN
+Recall for class 9: NaN
+f1-score for class 9: NaN
+#################################{MACRO-[Precsion,recall,f1-score]}#################################
+Macro-Averaged Precision: 0.6458333333333334
+Macro-Averaged Recall: 0.6458333333333334
+Macro-Averaged F1 Score: 0.6458333333333334
+########################################{Confusion Matrix}##########################################
+Confusion Matrix:
+[1, 0, 0, 0, 0, 1, 0, 0, 0]
+[0, 2, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 2, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 2, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 2, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 2, 0, 0, 0]
+[1, 0, 0, 0, 0, 0, 1, 0, 0]
+[1, 0, 0, 0, 1, 0, 0, 0, 0]
+[0, 1, 0, 0, 1, 0, 0, 0, 0]
+Execution time: 3 milliseconds
+****************************************(end)****************************************
+
+****************************************(E34-train 80.00001% -k = 3)****************************************
+****************************************(KNN)****************************************
+####################################[Precsion,recall,f1-score]####################################
+------------------------------------Class N°[1]-------------------------------------
+0
+Precision for class 1: 0.0
+Recall for class 1: 0.0
+f1-score for class 1: NaN
+------------------------------------Class N°[2]-------------------------------------
+2
+Precision for class 2: 0.4
+Recall for class 2: 0.4
+f1-score for class 2: 0.4000000000000001
+------------------------------------Class N°[3]-------------------------------------
+2
+Precision for class 3: 1.0
+Recall for class 3: 1.0
+f1-score for class 3: 1.0
+------------------------------------Class N°[4]-------------------------------------
+2
+Precision for class 4: 1.0
+Recall for class 4: 1.0
+f1-score for class 4: 1.0
+------------------------------------Class N°[5]-------------------------------------
+2
+Precision for class 5: 0.5
+Recall for class 5: 0.5
+f1-score for class 5: 0.5
+------------------------------------Class N°[6]-------------------------------------
+2
+Precision for class 6: 1.0
+Recall for class 6: 1.0
+f1-score for class 6: 1.0
+------------------------------------Class N°[7]-------------------------------------
+1
+Precision for class 7: 1.0
+Recall for class 7: 1.0
+f1-score for class 7: 1.0
+------------------------------------Class N°[8]-------------------------------------
+0
+Precision for class 8: NaN
+Recall for class 8: NaN
+f1-score for class 8: NaN
+------------------------------------Class N°[9]-------------------------------------
+0
+Precision for class 9: NaN
+Recall for class 9: NaN
+f1-score for class 9: NaN
+#################################{MACRO-[Precsion,recall,f1-score]}#################################
+Macro-Averaged Precision: 0.7000000000000001
+Macro-Averaged Recall: 0.7000000000000001
+Macro-Averaged F1 Score: 0.7000000000000001
+########################################{Confusion Matrix}##########################################
+Confusion Matrix:
+[0, 2, 0, 0, 0, 0, 0, 0, 0]
+[0, 2, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 2, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 2, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 2, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 2, 0, 0, 0]
+[1, 0, 0, 0, 0, 0, 1, 0, 0]
+[1, 0, 0, 0, 1, 0, 0, 0, 0]
+[0, 1, 0, 0, 1, 0, 0, 0, 0]
+Execution time: 3 milliseconds
+****************************************(end)****************************************
+
+****************************************(E34-train 80.00001% -k = 4)****************************************
+****************************************(KNN)****************************************
+####################################[Precsion,recall,f1-score]####################################
+------------------------------------Class N°[1]-------------------------------------
+0
+Precision for class 1: 0.0
+Recall for class 1: 0.0
+f1-score for class 1: NaN
+------------------------------------Class N°[2]-------------------------------------
+2
+Precision for class 2: 0.5
+Recall for class 2: 0.5
+f1-score for class 2: 0.5
+------------------------------------Class N°[3]-------------------------------------
+2
+Precision for class 3: 1.0
+Recall for class 3: 1.0
+f1-score for class 3: 1.0
+------------------------------------Class N°[4]-------------------------------------
+2
+Precision for class 4: 1.0
+Recall for class 4: 1.0
+f1-score for class 4: 1.0
+------------------------------------Class N°[5]-------------------------------------
+2
+Precision for class 5: 0.6666666666666666
+Recall for class 5: 0.6666666666666666
+f1-score for class 5: 0.6666666666666666
+------------------------------------Class N°[6]-------------------------------------
+2
+Precision for class 6: 1.0
+Recall for class 6: 1.0
+f1-score for class 6: 1.0
+------------------------------------Class N°[7]-------------------------------------
+1
+Precision for class 7: 1.0
+Recall for class 7: 1.0
+f1-score for class 7: 1.0
+------------------------------------Class N°[8]-------------------------------------
+1
+Precision for class 8: 1.0
+Recall for class 8: 1.0
+f1-score for class 8: 1.0
+------------------------------------Class N°[9]-------------------------------------
+0
+Precision for class 9: NaN
+Recall for class 9: NaN
+f1-score for class 9: NaN
+#################################{MACRO-[Precsion,recall,f1-score]}#################################
+Macro-Averaged Precision: 0.7708333333333333
+Macro-Averaged Recall: 0.7708333333333333
+Macro-Averaged F1 Score: 0.7708333333333333
+########################################{Confusion Matrix}##########################################
+Confusion Matrix:
+[0, 2, 0, 0, 0, 0, 0, 0, 0]
+[0, 2, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 2, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 2, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 2, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 2, 0, 0, 0]
+[1, 0, 0, 0, 0, 0, 1, 0, 0]
+[1, 0, 0, 0, 0, 0, 0, 1, 0]
+[1, 0, 0, 0, 1, 0, 0, 0, 0]
+Execution time: 4 milliseconds
+****************************************(end)****************************************
+
+------------------------------------------------------------Manhatan distance----------------------------------------------
+
+
+****************************************(E34-train 60.000004% -k = 1)****************************************
+****************************************(KNN)****************************************
+predicted class: 5, real class: 1
+predicted class: 4, real class: 4
+predicted class: 5, real class: 9
+predicted class: 9, real class: 6
+predicted class: 2, real class: 9
+predicted class: 2, real class: 1
+predicted class: 3, real class: 3
+predicted class: 4, real class: 4
+predicted class: 6, real class: 6
+predicted class: 5, real class: 5
+predicted class: 2, real class: 2
+predicted class: 5, real class: 5
+predicted class: 4, real class: 4
+predicted class: 5, real class: 8
+predicted class: 3, real class: 9
+predicted class: 3, real class: 3
+predicted class: 2, real class: 7
+predicted class: 6, real class: 6
+predicted class: 3, real class: 3
+predicted class: 4, real class: 4
+predicted class: 5, real class: 8
+predicted class: 5, real class: 8
+predicted class: 8, real class: 9
+predicted class: 7, real class: 1
+predicted class: 2, real class: 2
+predicted class: 5, real class: 5
+predicted class: 2, real class: 2
+predicted class: 3, real class: 3
+predicted class: 5, real class: 5
+predicted class: 6, real class: 6
+predicted class: 5, real class: 8
+predicted class: 2, real class: 2
+predicted class: 2, real class: 7
+predicted class: 2, real class: 1
+predicted class: 7, real class: 7
+predicted class: 7, real class: 7
+####################################[Precsion,recall,f1-score]####################################
+------------------------------------Class N°[1]-------------------------------------
+0
+Precision for class 1: NaN
+Recall for class 1: NaN
+f1-score for class 1: NaN
+------------------------------------Class N°[2]-------------------------------------
+4
+Precision for class 2: 0.4444444444444444
+Recall for class 2: 0.4444444444444444
+f1-score for class 2: 0.4444444444444444
+------------------------------------Class N°[3]-------------------------------------
+4
+Precision for class 3: 0.8
+Recall for class 3: 0.8
+f1-score for class 3: 0.8000000000000002
+------------------------------------Class N°[4]-------------------------------------
+4
+Precision for class 4: 1.0
+Recall for class 4: 1.0
+f1-score for class 4: 1.0
+------------------------------------Class N°[5]-------------------------------------
+4
+Precision for class 5: 0.4
+Recall for class 5: 0.4
+f1-score for class 5: 0.4000000000000001
+------------------------------------Class N°[6]-------------------------------------
+3
+Precision for class 6: 1.0
+Recall for class 6: 1.0
+f1-score for class 6: 1.0
+------------------------------------Class N°[7]-------------------------------------
+2
+Precision for class 7: 0.6666666666666666
+Recall for class 7: 0.6666666666666666
+f1-score for class 7: 0.6666666666666666
+------------------------------------Class N°[8]-------------------------------------
+0
+Precision for class 8: 0.0
+Recall for class 8: 0.0
+f1-score for class 8: NaN
+------------------------------------Class N°[9]-------------------------------------
+0
+Precision for class 9: 0.0
+Recall for class 9: 0.0
+f1-score for class 9: NaN
+#################################{MACRO-[Precsion,recall,f1-score]}#################################
+Macro-Averaged Precision: 0.6158730158730158
+Macro-Averaged Recall: 0.6158730158730158
+Macro-Averaged F1 Score: 0.6158730158730158
+########################################{Confusion Matrix}##########################################
+Confusion Matrix:
+[0, 2, 0, 0, 1, 0, 1, 0, 0]
+[0, 4, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 4, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 4, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 4, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 3, 0, 0, 1]
+[0, 2, 0, 0, 0, 0, 2, 0, 0]
+[0, 0, 0, 0, 4, 0, 0, 0, 0]
+[0, 1, 1, 0, 1, 0, 0, 1, 0]
+Execution time: 67 milliseconds
+****************************************(end)****************************************
+
+****************************************(E34-train 60.000004% -k = 2)****************************************
+****************************************(KNN)****************************************
+predicted class: 1, real class: 1
+predicted class: 4, real class: 4
+predicted class: 5, real class: 9
+predicted class: 2, real class: 6
+predicted class: 2, real class: 9
+predicted class: 2, real class: 1
+predicted class: 3, real class: 3
+predicted class: 4, real class: 4
+predicted class: 6, real class: 6
+predicted class: 5, real class: 5
+predicted class: 2, real class: 2
+predicted class: 1, real class: 5
+predicted class: 4, real class: 4
+predicted class: 1, real class: 8
+predicted class: 3, real class: 9
+predicted class: 3, real class: 3
+predicted class: 1, real class: 7
+predicted class: 6, real class: 6
+predicted class: 3, real class: 3
+predicted class: 4, real class: 4
+predicted class: 5, real class: 8
+predicted class: 1, real class: 8
+predicted class: 6, real class: 9
+predicted class: 2, real class: 1
+predicted class: 2, real class: 2
+predicted class: 5, real class: 5
+predicted class: 2, real class: 2
+predicted class: 3, real class: 3
+predicted class: 1, real class: 5
+predicted class: 6, real class: 6
+predicted class: 5, real class: 8
+predicted class: 2, real class: 2
+predicted class: 2, real class: 7
+predicted class: 2, real class: 1
+predicted class: 7, real class: 7
+predicted class: 7, real class: 7
+####################################[Precsion,recall,f1-score]####################################
+------------------------------------Class N°[1]-------------------------------------
+1
+Precision for class 1: 0.16666666666666666
+Recall for class 1: 0.16666666666666666
+f1-score for class 1: 0.16666666666666666
+------------------------------------Class N°[2]-------------------------------------
+4
+Precision for class 2: 0.4
+Recall for class 2: 0.4
+f1-score for class 2: 0.4000000000000001
+------------------------------------Class N°[3]-------------------------------------
+4
+Precision for class 3: 0.8
+Recall for class 3: 0.8
+f1-score for class 3: 0.8000000000000002
+------------------------------------Class N°[4]-------------------------------------
+4
+Precision for class 4: 1.0
+Recall for class 4: 1.0
+f1-score for class 4: 1.0
+------------------------------------Class N°[5]-------------------------------------
+2
+Precision for class 5: 0.4
+Recall for class 5: 0.4
+f1-score for class 5: 0.4000000000000001
+------------------------------------Class N°[6]-------------------------------------
+3
+Precision for class 6: 0.75
+Recall for class 6: 0.75
+f1-score for class 6: 0.75
+------------------------------------Class N°[7]-------------------------------------
+2
+Precision for class 7: 1.0
+Recall for class 7: 1.0
+f1-score for class 7: 1.0
+------------------------------------Class N°[8]-------------------------------------
+0
+Precision for class 8: NaN
+Recall for class 8: NaN
+f1-score for class 8: NaN
+------------------------------------Class N°[9]-------------------------------------
+0
+Precision for class 9: NaN
+Recall for class 9: NaN
+f1-score for class 9: NaN
+#################################{MACRO-[Precsion,recall,f1-score]}#################################
+Macro-Averaged Precision: 0.5645833333333333
+Macro-Averaged Recall: 0.5645833333333333
+Macro-Averaged F1 Score: 0.5645833333333334
+########################################{Confusion Matrix}##########################################
+Confusion Matrix:
+[1, 3, 0, 0, 0, 0, 0, 0, 0]
+[0, 4, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 4, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 4, 0, 0, 0, 0, 0]
+[2, 0, 0, 0, 2, 0, 0, 0, 0]
+[0, 1, 0, 0, 0, 3, 0, 0, 0]
+[1, 1, 0, 0, 0, 0, 2, 0, 0]
+[2, 0, 0, 0, 2, 0, 0, 0, 0]
+[0, 1, 1, 0, 1, 1, 0, 0, 0]
+Execution time: 7 milliseconds
+****************************************(end)****************************************
+
+****************************************(E34-train 60.000004% -k = 3)****************************************
+****************************************(KNN)****************************************
+predicted class: 1, real class: 1
+predicted class: 4, real class: 4
+predicted class: 5, real class: 9
+predicted class: 2, real class: 6
+predicted class: 2, real class: 9
+predicted class: 2, real class: 1
+predicted class: 3, real class: 3
+predicted class: 4, real class: 4
+predicted class: 6, real class: 6
+predicted class: 5, real class: 5
+predicted class: 2, real class: 2
+predicted class: 5, real class: 5
+predicted class: 4, real class: 4
+predicted class: 1, real class: 8
+predicted class: 3, real class: 9
+predicted class: 3, real class: 3
+predicted class: 1, real class: 7
+predicted class: 6, real class: 6
+predicted class: 3, real class: 3
+predicted class: 4, real class: 4
+predicted class: 1, real class: 8
+predicted class: 1, real class: 8
+predicted class: 6, real class: 9
+predicted class: 2, real class: 1
+predicted class: 2, real class: 2
+predicted class: 5, real class: 5
+predicted class: 2, real class: 2
+predicted class: 3, real class: 3
+predicted class: 5, real class: 5
+predicted class: 2, real class: 6
+predicted class: 5, real class: 8
+predicted class: 2, real class: 2
+predicted class: 2, real class: 7
+predicted class: 2, real class: 1
+predicted class: 7, real class: 7
+predicted class: 7, real class: 7
+####################################[Precsion,recall,f1-score]####################################
+------------------------------------Class N°[1]-------------------------------------
+1
+Precision for class 1: 0.2
+Recall for class 1: 0.2
+f1-score for class 1: 0.20000000000000004
+------------------------------------Class N°[2]-------------------------------------
+4
+Precision for class 2: 0.36363636363636365
+Recall for class 2: 0.36363636363636365
+f1-score for class 2: 0.36363636363636365
+------------------------------------Class N°[3]-------------------------------------
+4
+Precision for class 3: 0.8
+Recall for class 3: 0.8
+f1-score for class 3: 0.8000000000000002
+------------------------------------Class N°[4]-------------------------------------
+4
+Precision for class 4: 1.0
+Recall for class 4: 1.0
+f1-score for class 4: 1.0
+------------------------------------Class N°[5]-------------------------------------
+4
+Precision for class 5: 0.6666666666666666
+Recall for class 5: 0.6666666666666666
+f1-score for class 5: 0.6666666666666666
+------------------------------------Class N°[6]-------------------------------------
+2
+Precision for class 6: 0.6666666666666666
+Recall for class 6: 0.6666666666666666
+f1-score for class 6: 0.6666666666666666
+------------------------------------Class N°[7]-------------------------------------
+2
+Precision for class 7: 1.0
+Recall for class 7: 1.0
+f1-score for class 7: 1.0
+------------------------------------Class N°[8]-------------------------------------
+0
+Precision for class 8: NaN
+Recall for class 8: NaN
+f1-score for class 8: NaN
+------------------------------------Class N°[9]-------------------------------------
+0
+Precision for class 9: NaN
+Recall for class 9: NaN
+f1-score for class 9: NaN
+#################################{MACRO-[Precsion,recall,f1-score]}#################################
+Macro-Averaged Precision: 0.5871212121212122
+Macro-Averaged Recall: 0.5871212121212122
+Macro-Averaged F1 Score: 0.5871212121212122
+########################################{Confusion Matrix}##########################################
+Confusion Matrix:
+[1, 3, 0, 0, 0, 0, 0, 0, 0]
+[0, 4, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 4, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 4, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 4, 0, 0, 0, 0]
+[0, 2, 0, 0, 0, 2, 0, 0, 0]
+[1, 1, 0, 0, 0, 0, 2, 0, 0]
+[3, 0, 0, 0, 1, 0, 0, 0, 0]
+[0, 1, 1, 0, 1, 1, 0, 0, 0]
+Execution time: 8 milliseconds
+****************************************(end)****************************************
+
+****************************************(E34-train 60.000004% -k = 4)****************************************
+****************************************(KNN)****************************************
+predicted class: 1, real class: 1
+predicted class: 4, real class: 4
+predicted class: 1, real class: 9
+predicted class: 2, real class: 6
+predicted class: 1, real class: 9
+predicted class: 2, real class: 1
+predicted class: 3, real class: 3
+predicted class: 4, real class: 4
+predicted class: 6, real class: 6
+predicted class: 1, real class: 5
+predicted class: 2, real class: 2
+predicted class: 1, real class: 5
+predicted class: 4, real class: 4
+predicted class: 1, real class: 8
+predicted class: 3, real class: 9
+predicted class: 3, real class: 3
+predicted class: 1, real class: 7
+predicted class: 6, real class: 6
+predicted class: 3, real class: 3
+predicted class: 4, real class: 4
+predicted class: 1, real class: 8
+predicted class: 8, real class: 8
+predicted class: 5, real class: 9
+predicted class: 2, real class: 1
+predicted class: 2, real class: 2
+predicted class: 5, real class: 5
+predicted class: 2, real class: 2
+predicted class: 3, real class: 3
+predicted class: 5, real class: 5
+predicted class: 6, real class: 6
+predicted class: 1, real class: 8
+predicted class: 2, real class: 2
+predicted class: 2, real class: 7
+predicted class: 2, real class: 1
+predicted class: 7, real class: 7
+predicted class: 7, real class: 7
+####################################[Precsion,recall,f1-score]####################################
+------------------------------------Class N°[1]-------------------------------------
+1
+Precision for class 1: 0.1111111111111111
+Recall for class 1: 0.1111111111111111
+f1-score for class 1: 0.1111111111111111
+------------------------------------Class N°[2]-------------------------------------
+4
+Precision for class 2: 0.4444444444444444
+Recall for class 2: 0.4444444444444444
+f1-score for class 2: 0.4444444444444444
+------------------------------------Class N°[3]-------------------------------------
+4
+Precision for class 3: 0.8
+Recall for class 3: 0.8
+f1-score for class 3: 0.8000000000000002
+------------------------------------Class N°[4]-------------------------------------
+4
+Precision for class 4: 1.0
+Recall for class 4: 1.0
+f1-score for class 4: 1.0
+------------------------------------Class N°[5]-------------------------------------
+2
+Precision for class 5: 0.6666666666666666
+Recall for class 5: 0.6666666666666666
+f1-score for class 5: 0.6666666666666666
+------------------------------------Class N°[6]-------------------------------------
+3
+Precision for class 6: 1.0
+Recall for class 6: 1.0
+f1-score for class 6: 1.0
+------------------------------------Class N°[7]-------------------------------------
+2
+Precision for class 7: 1.0
+Recall for class 7: 1.0
+f1-score for class 7: 1.0
+------------------------------------Class N°[8]-------------------------------------
+1
+Precision for class 8: 1.0
+Recall for class 8: 1.0
+f1-score for class 8: 1.0
+------------------------------------Class N°[9]-------------------------------------
+0
+Precision for class 9: NaN
+Recall for class 9: NaN
+f1-score for class 9: NaN
+#################################{MACRO-[Precsion,recall,f1-score]}#################################
+Macro-Averaged Precision: 0.7527777777777778
+Macro-Averaged Recall: 0.7527777777777778
+Macro-Averaged F1 Score: 0.7527777777777778
+########################################{Confusion Matrix}##########################################
+Confusion Matrix:
+[1, 3, 0, 0, 0, 0, 0, 0, 0]
+[0, 4, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 4, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 4, 0, 0, 0, 0, 0]
+[2, 0, 0, 0, 2, 0, 0, 0, 0]
+[0, 1, 0, 0, 0, 3, 0, 0, 0]
+[1, 1, 0, 0, 0, 0, 2, 0, 0]
+[3, 0, 0, 0, 0, 0, 0, 1, 0]
+[2, 0, 1, 0, 1, 0, 0, 0, 0]
+Execution time: 6 milliseconds
+****************************************(end)****************************************
+
+****************************************(E34-train 70.00001% -k = 1)****************************************
+****************************************(KNN)****************************************
+predicted class: 5, real class: 1
+predicted class: 8, real class: 9
+predicted class: 9, real class: 6
+predicted class: 2, real class: 9
+predicted class: 4, real class: 4
+predicted class: 6, real class: 6
+predicted class: 2, real class: 2
+predicted class: 5, real class: 5
+predicted class: 4, real class: 4
+predicted class: 8, real class: 8
+predicted class: 3, real class: 9
+predicted class: 3, real class: 3
+predicted class: 2, real class: 7
+predicted class: 3, real class: 3
+predicted class: 4, real class: 4
+predicted class: 5, real class: 8
+predicted class: 7, real class: 1
+predicted class: 2, real class: 2
+predicted class: 5, real class: 5
+predicted class: 3, real class: 3
+predicted class: 5, real class: 5
+predicted class: 6, real class: 6
+predicted class: 8, real class: 8
+predicted class: 7, real class: 2
+predicted class: 1, real class: 1
+predicted class: 7, real class: 7
+predicted class: 7, real class: 7
+####################################[Precsion,recall,f1-score]####################################
+------------------------------------Class N°[1]-------------------------------------
+1
+Precision for class 1: 1.0
+Recall for class 1: 1.0
+f1-score for class 1: 1.0
+------------------------------------Class N°[2]-------------------------------------
+2
+Precision for class 2: 0.5
+Recall for class 2: 0.5
+f1-score for class 2: 0.5
+------------------------------------Class N°[3]-------------------------------------
+3
+Precision for class 3: 0.75
+Recall for class 3: 0.75
+f1-score for class 3: 0.75
+------------------------------------Class N°[4]-------------------------------------
+3
+Precision for class 4: 1.0
+Recall for class 4: 1.0
+f1-score for class 4: 1.0
+------------------------------------Class N°[5]-------------------------------------
+3
+Precision for class 5: 0.6
+Recall for class 5: 0.6
+f1-score for class 5: 0.6
+------------------------------------Class N°[6]-------------------------------------
+2
+Precision for class 6: 1.0
+Recall for class 6: 1.0
+f1-score for class 6: 1.0
+------------------------------------Class N°[7]-------------------------------------
+2
+Precision for class 7: 0.5
+Recall for class 7: 0.5
+f1-score for class 7: 0.5
+------------------------------------Class N°[8]-------------------------------------
+2
+Precision for class 8: 0.6666666666666666
+Recall for class 8: 0.6666666666666666
+f1-score for class 8: 0.6666666666666666
+------------------------------------Class N°[9]-------------------------------------
+0
+Precision for class 9: 0.0
+Recall for class 9: 0.0
+f1-score for class 9: NaN
+#################################{MACRO-[Precsion,recall,f1-score]}#################################
+Macro-Averaged Precision: 0.7520833333333333
+Macro-Averaged Recall: 0.7520833333333333
+Macro-Averaged F1 Score: 0.7520833333333333
+########################################{Confusion Matrix}##########################################
+Confusion Matrix:
+[1, 0, 0, 0, 1, 0, 1, 0, 0]
+[0, 2, 0, 0, 0, 0, 1, 0, 0]
+[0, 0, 3, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 3, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 3, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 2, 0, 0, 1]
+[0, 1, 0, 0, 0, 0, 2, 0, 0]
+[0, 0, 0, 0, 1, 0, 0, 2, 0]
+[0, 1, 1, 0, 0, 0, 0, 1, 0]
+Execution time: 6 milliseconds
+****************************************(end)****************************************
+
+****************************************(E34-train 70.00001% -k = 2)****************************************
+****************************************(KNN)****************************************
+predicted class: 1, real class: 1
+predicted class: 5, real class: 9
+predicted class: 9, real class: 6
+predicted class: 2, real class: 9
+predicted class: 4, real class: 4
+predicted class: 6, real class: 6
+predicted class: 2, real class: 2
+predicted class: 5, real class: 5
+predicted class: 4, real class: 4
+predicted class: 5, real class: 8
+predicted class: 3, real class: 9
+predicted class: 3, real class: 3
+predicted class: 1, real class: 7
+predicted class: 3, real class: 3
+predicted class: 4, real class: 4
+predicted class: 1, real class: 8
+predicted class: 2, real class: 1
+predicted class: 2, real class: 2
+predicted class: 5, real class: 5
+predicted class: 3, real class: 3
+predicted class: 5, real class: 5
+predicted class: 6, real class: 6
+predicted class: 8, real class: 8
+predicted class: 2, real class: 2
+predicted class: 1, real class: 1
+predicted class: 7, real class: 7
+predicted class: 7, real class: 7
+####################################[Precsion,recall,f1-score]####################################
+------------------------------------Class N°[1]-------------------------------------
+2
+Precision for class 1: 0.5
+Recall for class 1: 0.5
+f1-score for class 1: 0.5
+------------------------------------Class N°[2]-------------------------------------
+3
+Precision for class 2: 0.6
+Recall for class 2: 0.6
+f1-score for class 2: 0.6
+------------------------------------Class N°[3]-------------------------------------
+3
+Precision for class 3: 0.75
+Recall for class 3: 0.75
+f1-score for class 3: 0.75
+------------------------------------Class N°[4]-------------------------------------
+3
+Precision for class 4: 1.0
+Recall for class 4: 1.0
+f1-score for class 4: 1.0
+------------------------------------Class N°[5]-------------------------------------
+3
+Precision for class 5: 0.6
+Recall for class 5: 0.6
+f1-score for class 5: 0.6
+------------------------------------Class N°[6]-------------------------------------
+2
+Precision for class 6: 1.0
+Recall for class 6: 1.0
+f1-score for class 6: 1.0
+------------------------------------Class N°[7]-------------------------------------
+2
+Precision for class 7: 1.0
+Recall for class 7: 1.0
+f1-score for class 7: 1.0
+------------------------------------Class N°[8]-------------------------------------
+1
+Precision for class 8: 1.0
+Recall for class 8: 1.0
+f1-score for class 8: 1.0
+------------------------------------Class N°[9]-------------------------------------
+0
+Precision for class 9: 0.0
+Recall for class 9: 0.0
+f1-score for class 9: NaN
+#################################{MACRO-[Precsion,recall,f1-score]}#################################
+Macro-Averaged Precision: 0.80625
+Macro-Averaged Recall: 0.80625
+Macro-Averaged F1 Score: 0.80625
+########################################{Confusion Matrix}##########################################
+Confusion Matrix:
+[2, 1, 0, 0, 0, 0, 0, 0, 0]
+[0, 3, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 3, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 3, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 3, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 2, 0, 0, 1]
+[1, 0, 0, 0, 0, 0, 2, 0, 0]
+[1, 0, 0, 0, 1, 0, 0, 1, 0]
+[0, 1, 1, 0, 1, 0, 0, 0, 0]
+Execution time: 6 milliseconds
+****************************************(end)****************************************
+
+****************************************(E34-train 70.00001% -k = 3)****************************************
+****************************************(KNN)****************************************
+predicted class: 1, real class: 1
+predicted class: 5, real class: 9
+predicted class: 9, real class: 6
+predicted class: 2, real class: 9
+predicted class: 4, real class: 4
+predicted class: 6, real class: 6
+predicted class: 2, real class: 2
+predicted class: 5, real class: 5
+predicted class: 4, real class: 4
+predicted class: 1, real class: 8
+predicted class: 3, real class: 9
+predicted class: 3, real class: 3
+predicted class: 1, real class: 7
+predicted class: 3, real class: 3
+predicted class: 4, real class: 4
+predicted class: 1, real class: 8
+predicted class: 2, real class: 1
+predicted class: 2, real class: 2
+predicted class: 5, real class: 5
+predicted class: 3, real class: 3
+predicted class: 5, real class: 5
+predicted class: 6, real class: 6
+predicted class: 5, real class: 8
+predicted class: 2, real class: 2
+predicted class: 2, real class: 1
+predicted class: 7, real class: 7
+predicted class: 7, real class: 7
+####################################[Precsion,recall,f1-score]####################################
+------------------------------------Class N°[1]-------------------------------------
+1
+Precision for class 1: 0.25
+Recall for class 1: 0.25
+f1-score for class 1: 0.25
+------------------------------------Class N°[2]-------------------------------------
+3
+Precision for class 2: 0.5
+Recall for class 2: 0.5
+f1-score for class 2: 0.5
+------------------------------------Class N°[3]-------------------------------------
+3
+Precision for class 3: 0.75
+Recall for class 3: 0.75
+f1-score for class 3: 0.75
+------------------------------------Class N°[4]-------------------------------------
+3
+Precision for class 4: 1.0
+Recall for class 4: 1.0
+f1-score for class 4: 1.0
+------------------------------------Class N°[5]-------------------------------------
+3
+Precision for class 5: 0.6
+Recall for class 5: 0.6
+f1-score for class 5: 0.6
+------------------------------------Class N°[6]-------------------------------------
+2
+Precision for class 6: 1.0
+Recall for class 6: 1.0
+f1-score for class 6: 1.0
+------------------------------------Class N°[7]-------------------------------------
+2
+Precision for class 7: 1.0
+Recall for class 7: 1.0
+f1-score for class 7: 1.0
+------------------------------------Class N°[8]-------------------------------------
+0
+Precision for class 8: NaN
+Recall for class 8: NaN
+f1-score for class 8: NaN
+------------------------------------Class N°[9]-------------------------------------
+0
+Precision for class 9: 0.0
+Recall for class 9: 0.0
+f1-score for class 9: NaN
+#################################{MACRO-[Precsion,recall,f1-score]}#################################
+Macro-Averaged Precision: 0.6375
+Macro-Averaged Recall: 0.6375
+Macro-Averaged F1 Score: 0.6375
+########################################{Confusion Matrix}##########################################
+Confusion Matrix:
+[1, 2, 0, 0, 0, 0, 0, 0, 0]
+[0, 3, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 3, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 3, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 3, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 2, 0, 0, 1]
+[1, 0, 0, 0, 0, 0, 2, 0, 0]
+[2, 0, 0, 0, 1, 0, 0, 0, 0]
+[0, 1, 1, 0, 1, 0, 0, 0, 0]
+Execution time: 5 milliseconds
+****************************************(end)****************************************
+
+****************************************(E34-train 70.00001% -k = 4)****************************************
+****************************************(KNN)****************************************
+predicted class: 1, real class: 1
+predicted class: 8, real class: 9
+predicted class: 9, real class: 6
+predicted class: 2, real class: 9
+predicted class: 4, real class: 4
+predicted class: 6, real class: 6
+predicted class: 2, real class: 2
+predicted class: 5, real class: 5
+predicted class: 4, real class: 4
+predicted class: 1, real class: 8
+predicted class: 3, real class: 9
+predicted class: 3, real class: 3
+predicted class: 1, real class: 7
+predicted class: 3, real class: 3
+predicted class: 4, real class: 4
+predicted class: 8, real class: 8
+predicted class: 2, real class: 1
+predicted class: 2, real class: 2
+predicted class: 5, real class: 5
+predicted class: 3, real class: 3
+predicted class: 5, real class: 5
+predicted class: 2, real class: 6
+predicted class: 9, real class: 8
+predicted class: 2, real class: 2
+predicted class: 2, real class: 1
+predicted class: 7, real class: 7
+predicted class: 7, real class: 7
+####################################[Precsion,recall,f1-score]####################################
+------------------------------------Class N°[1]-------------------------------------
+1
+Precision for class 1: 0.3333333333333333
+Recall for class 1: 0.3333333333333333
+f1-score for class 1: 0.3333333333333333
+------------------------------------Class N°[2]-------------------------------------
+3
+Precision for class 2: 0.42857142857142855
+Recall for class 2: 0.42857142857142855
+f1-score for class 2: 0.42857142857142855
+------------------------------------Class N°[3]-------------------------------------
+3
+Precision for class 3: 0.75
+Recall for class 3: 0.75
+f1-score for class 3: 0.75
+------------------------------------Class N°[4]-------------------------------------
+3
+Precision for class 4: 1.0
+Recall for class 4: 1.0
+f1-score for class 4: 1.0
+------------------------------------Class N°[5]-------------------------------------
+3
+Precision for class 5: 1.0
+Recall for class 5: 1.0
+f1-score for class 5: 1.0
+------------------------------------Class N°[6]-------------------------------------
+1
+Precision for class 6: 1.0
+Recall for class 6: 1.0
+f1-score for class 6: 1.0
+------------------------------------Class N°[7]-------------------------------------
+2
+Precision for class 7: 1.0
+Recall for class 7: 1.0
+f1-score for class 7: 1.0
+------------------------------------Class N°[8]-------------------------------------
+1
+Precision for class 8: 0.5
+Recall for class 8: 0.5
+f1-score for class 8: 0.5
+------------------------------------Class N°[9]-------------------------------------
+0
+Precision for class 9: 0.0
+Recall for class 9: 0.0
+f1-score for class 9: NaN
+#################################{MACRO-[Precsion,recall,f1-score]}#################################
+Macro-Averaged Precision: 0.7514880952380952
+Macro-Averaged Recall: 0.7514880952380952
+Macro-Averaged F1 Score: 0.7514880952380952
+########################################{Confusion Matrix}##########################################
+Confusion Matrix:
+[1, 2, 0, 0, 0, 0, 0, 0, 0]
+[0, 3, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 3, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 3, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 3, 0, 0, 0, 0]
+[0, 1, 0, 0, 0, 1, 0, 0, 1]
+[1, 0, 0, 0, 0, 0, 2, 0, 0]
+[1, 0, 0, 0, 0, 0, 0, 1, 1]
+[0, 1, 1, 0, 0, 0, 0, 1, 0]
+Execution time: 9 milliseconds
+****************************************(end)****************************************
+
+****************************************(E34-train 80.00001% -k = 1)****************************************
+****************************************(KNN)****************************************
+predicted class: 8, real class: 9
+predicted class: 5, real class: 8
+predicted class: 2, real class: 9
+predicted class: 4, real class: 4
+predicted class: 6, real class: 6
+predicted class: 7, real class: 1
+predicted class: 2, real class: 2
+predicted class: 5, real class: 5
+predicted class: 2, real class: 2
+predicted class: 4, real class: 4
+predicted class: 8, real class: 8
+predicted class: 3, real class: 3
+predicted class: 5, real class: 5
+predicted class: 6, real class: 6
+predicted class: 2, real class: 7
+predicted class: 1, real class: 1
+predicted class: 7, real class: 7
+predicted class: 3, real class: 3
+####################################[Precsion,recall,f1-score]####################################
+------------------------------------Class N°[1]-------------------------------------
+1
+Precision for class 1: 1.0
+Recall for class 1: 1.0
+f1-score for class 1: 1.0
+------------------------------------Class N°[2]-------------------------------------
+2
+Precision for class 2: 0.5
+Recall for class 2: 0.5
+f1-score for class 2: 0.5
+------------------------------------Class N°[3]-------------------------------------
+2
+Precision for class 3: 1.0
+Recall for class 3: 1.0
+f1-score for class 3: 1.0
+------------------------------------Class N°[4]-------------------------------------
+2
+Precision for class 4: 1.0
+Recall for class 4: 1.0
+f1-score for class 4: 1.0
+------------------------------------Class N°[5]-------------------------------------
+2
+Precision for class 5: 0.6666666666666666
+Recall for class 5: 0.6666666666666666
+f1-score for class 5: 0.6666666666666666
+------------------------------------Class N°[6]-------------------------------------
+2
+Precision for class 6: 1.0
+Recall for class 6: 1.0
+f1-score for class 6: 1.0
+------------------------------------Class N°[7]-------------------------------------
+1
+Precision for class 7: 0.5
+Recall for class 7: 0.5
+f1-score for class 7: 0.5
+------------------------------------Class N°[8]-------------------------------------
+1
+Precision for class 8: 0.5
+Recall for class 8: 0.5
+f1-score for class 8: 0.5
+------------------------------------Class N°[9]-------------------------------------
+0
+Precision for class 9: NaN
+Recall for class 9: NaN
+f1-score for class 9: NaN
+#################################{MACRO-[Precsion,recall,f1-score]}#################################
+Macro-Averaged Precision: 0.7708333333333334
+Macro-Averaged Recall: 0.7708333333333334
+Macro-Averaged F1 Score: 0.7708333333333334
+########################################{Confusion Matrix}##########################################
+Confusion Matrix:
+[1, 0, 0, 0, 0, 0, 1, 0, 0]
+[0, 2, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 2, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 2, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 2, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 2, 0, 0, 0]
+[0, 1, 0, 0, 0, 0, 1, 0, 0]
+[0, 0, 0, 0, 1, 0, 0, 1, 0]
+[0, 1, 0, 0, 0, 0, 0, 1, 0]
+Execution time: 3 milliseconds
+****************************************(end)****************************************
+
+****************************************(E34-train 80.00001% -k = 2)****************************************
+****************************************(KNN)****************************************
+predicted class: 5, real class: 9
+predicted class: 1, real class: 8
+predicted class: 2, real class: 9
+predicted class: 4, real class: 4
+predicted class: 6, real class: 6
+predicted class: 2, real class: 1
+predicted class: 2, real class: 2
+predicted class: 5, real class: 5
+predicted class: 2, real class: 2
+predicted class: 4, real class: 4
+predicted class: 5, real class: 8
+predicted class: 3, real class: 3
+predicted class: 5, real class: 5
+predicted class: 6, real class: 6
+predicted class: 1, real class: 7
+predicted class: 1, real class: 1
+predicted class: 7, real class: 7
+predicted class: 3, real class: 3
+####################################[Precsion,recall,f1-score]####################################
+------------------------------------Class N°[1]-------------------------------------
+1
+Precision for class 1: 0.3333333333333333
+Recall for class 1: 0.3333333333333333
+f1-score for class 1: 0.3333333333333333
+------------------------------------Class N°[2]-------------------------------------
+2
+Precision for class 2: 0.5
+Recall for class 2: 0.5
+f1-score for class 2: 0.5
+------------------------------------Class N°[3]-------------------------------------
+2
+Precision for class 3: 1.0
+Recall for class 3: 1.0
+f1-score for class 3: 1.0
+------------------------------------Class N°[4]-------------------------------------
+2
+Precision for class 4: 1.0
+Recall for class 4: 1.0
+f1-score for class 4: 1.0
+------------------------------------Class N°[5]-------------------------------------
+2
+Precision for class 5: 0.5
+Recall for class 5: 0.5
+f1-score for class 5: 0.5
+------------------------------------Class N°[6]-------------------------------------
+2
+Precision for class 6: 1.0
+Recall for class 6: 1.0
+f1-score for class 6: 1.0
+------------------------------------Class N°[7]-------------------------------------
+1
+Precision for class 7: 1.0
+Recall for class 7: 1.0
+f1-score for class 7: 1.0
+------------------------------------Class N°[8]-------------------------------------
+0
+Precision for class 8: NaN
+Recall for class 8: NaN
+f1-score for class 8: NaN
+------------------------------------Class N°[9]-------------------------------------
+0
+Precision for class 9: NaN
+Recall for class 9: NaN
+f1-score for class 9: NaN
+#################################{MACRO-[Precsion,recall,f1-score]}#################################
+Macro-Averaged Precision: 0.6666666666666666
+Macro-Averaged Recall: 0.6666666666666666
+Macro-Averaged F1 Score: 0.6666666666666666
+########################################{Confusion Matrix}##########################################
+Confusion Matrix:
+[1, 1, 0, 0, 0, 0, 0, 0, 0]
+[0, 2, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 2, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 2, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 2, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 2, 0, 0, 0]
+[1, 0, 0, 0, 0, 0, 1, 0, 0]
+[1, 0, 0, 0, 1, 0, 0, 0, 0]
+[0, 1, 0, 0, 1, 0, 0, 0, 0]
+Execution time: 4 milliseconds
+****************************************(end)****************************************
+
+****************************************(E34-train 80.00001% -k = 3)****************************************
+****************************************(KNN)****************************************
+predicted class: 8, real class: 9
+predicted class: 1, real class: 8
+predicted class: 2, real class: 9
+predicted class: 4, real class: 4
+predicted class: 6, real class: 6
+predicted class: 2, real class: 1
+predicted class: 2, real class: 2
+predicted class: 5, real class: 5
+predicted class: 2, real class: 2
+predicted class: 4, real class: 4
+predicted class: 1, real class: 8
+predicted class: 3, real class: 3
+predicted class: 5, real class: 5
+predicted class: 6, real class: 6
+predicted class: 1, real class: 7
+predicted class: 2, real class: 1
+predicted class: 7, real class: 7
+predicted class: 3, real class: 3
+####################################[Precsion,recall,f1-score]####################################
+------------------------------------Class N°[1]-------------------------------------
+0
+Precision for class 1: 0.0
+Recall for class 1: 0.0
+f1-score for class 1: NaN
+------------------------------------Class N°[2]-------------------------------------
+2
+Precision for class 2: 0.4
+Recall for class 2: 0.4
+f1-score for class 2: 0.4000000000000001
+------------------------------------Class N°[3]-------------------------------------
+2
+Precision for class 3: 1.0
+Recall for class 3: 1.0
+f1-score for class 3: 1.0
+------------------------------------Class N°[4]-------------------------------------
+2
+Precision for class 4: 1.0
+Recall for class 4: 1.0
+f1-score for class 4: 1.0
+------------------------------------Class N°[5]-------------------------------------
+2
+Precision for class 5: 1.0
+Recall for class 5: 1.0
+f1-score for class 5: 1.0
+------------------------------------Class N°[6]-------------------------------------
+2
+Precision for class 6: 1.0
+Recall for class 6: 1.0
+f1-score for class 6: 1.0
+------------------------------------Class N°[7]-------------------------------------
+1
+Precision for class 7: 1.0
+Recall for class 7: 1.0
+f1-score for class 7: 1.0
+------------------------------------Class N°[8]-------------------------------------
+0
+Precision for class 8: 0.0
+Recall for class 8: 0.0
+f1-score for class 8: NaN
+------------------------------------Class N°[9]-------------------------------------
+0
+Precision for class 9: NaN
+Recall for class 9: NaN
+f1-score for class 9: NaN
+#################################{MACRO-[Precsion,recall,f1-score]}#################################
+Macro-Averaged Precision: 0.7714285714285715
+Macro-Averaged Recall: 0.7714285714285715
+Macro-Averaged F1 Score: 0.7714285714285715
+########################################{Confusion Matrix}##########################################
+Confusion Matrix:
+[0, 2, 0, 0, 0, 0, 0, 0, 0]
+[0, 2, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 2, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 2, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 2, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 2, 0, 0, 0]
+[1, 0, 0, 0, 0, 0, 1, 0, 0]
+[2, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 1, 0, 0, 0, 0, 0, 1, 0]
+Execution time: 3 milliseconds
+****************************************(end)****************************************
+
+****************************************(E34-train 80.00001% -k = 4)****************************************
+****************************************(KNN)****************************************
+predicted class: 8, real class: 9
+predicted class: 8, real class: 8
+predicted class: 1, real class: 9
+predicted class: 4, real class: 4
+predicted class: 6, real class: 6
+predicted class: 2, real class: 1
+predicted class: 2, real class: 2
+predicted class: 5, real class: 5
+predicted class: 2, real class: 2
+predicted class: 4, real class: 4
+predicted class: 1, real class: 8
+predicted class: 3, real class: 3
+predicted class: 5, real class: 5
+predicted class: 2, real class: 6
+predicted class: 1, real class: 7
+predicted class: 2, real class: 1
+predicted class: 7, real class: 7
+predicted class: 3, real class: 3
+####################################[Precsion,recall,f1-score]####################################
+------------------------------------Class N°[1]-------------------------------------
+0
+Precision for class 1: 0.0
+Recall for class 1: 0.0
+f1-score for class 1: NaN
+------------------------------------Class N°[2]-------------------------------------
+2
+Precision for class 2: 0.4
+Recall for class 2: 0.4
+f1-score for class 2: 0.4000000000000001
+------------------------------------Class N°[3]-------------------------------------
+2
+Precision for class 3: 1.0
+Recall for class 3: 1.0
+f1-score for class 3: 1.0
+------------------------------------Class N°[4]-------------------------------------
+2
+Precision for class 4: 1.0
+Recall for class 4: 1.0
+f1-score for class 4: 1.0
+------------------------------------Class N°[5]-------------------------------------
+2
+Precision for class 5: 1.0
+Recall for class 5: 1.0
+f1-score for class 5: 1.0
+------------------------------------Class N°[6]-------------------------------------
+1
+Precision for class 6: 1.0
+Recall for class 6: 1.0
+f1-score for class 6: 1.0
+------------------------------------Class N°[7]-------------------------------------
+1
+Precision for class 7: 1.0
+Recall for class 7: 1.0
+f1-score for class 7: 1.0
+------------------------------------Class N°[8]-------------------------------------
+1
+Precision for class 8: 0.5
+Recall for class 8: 0.5
+f1-score for class 8: 0.5
+------------------------------------Class N°[9]-------------------------------------
+0
+Precision for class 9: NaN
+Recall for class 9: NaN
+f1-score for class 9: NaN
+#################################{MACRO-[Precsion,recall,f1-score]}#################################
+Macro-Averaged Precision: 0.7375
+Macro-Averaged Recall: 0.7375
+Macro-Averaged F1 Score: 0.7375
+########################################{Confusion Matrix}##########################################
+Confusion Matrix:
+[0, 2, 0, 0, 0, 0, 0, 0, 0]
+[0, 2, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 2, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 2, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 2, 0, 0, 0, 0]
+[0, 1, 0, 0, 0, 1, 0, 0, 0]
+[1, 0, 0, 0, 0, 0, 1, 0, 0]
+[1, 0, 0, 0, 0, 0, 0, 1, 0]
+[1, 0, 0, 0, 0, 0, 0, 1, 0]
+Execution time: 4 milliseconds
+****************************************(end)****************************************
+
+
