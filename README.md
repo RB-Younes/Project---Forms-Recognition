@@ -8,7 +8,7 @@ Throughout the project, we conduct various tests and evaluations to assess the p
 
 For more detailed information, please refer to the file "ProjetRF_REBAI_ABED_VMI_version longue.pdf".
 
-## Contributors
+## Collaborators
 
 - [@RB-Younes](https://github.com/RB-Younes)
 - [@NaaaaaaaaaaDaa](https://github.com/NaaaaaaaaaaDaa)
